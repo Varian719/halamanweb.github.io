@@ -1,0 +1,38 @@
+.main{
+  height: 580px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+.lessons{
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.pala{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+.pala h2{
+  font-weight: normal;
+}
+.lesson{
+  float: left;
+  width: 33%;
+}
+.lesson-icon{
+  position: relative;
+}
+.lesson-icon p{
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+.bagiantext {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
